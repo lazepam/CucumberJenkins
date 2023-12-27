@@ -12,4 +12,3 @@ Feature: US008 BlueRentalCar positive login test
     Examples:
       | email  | password  |
       | email1 | password1 |
-      | email2 | password2 |
