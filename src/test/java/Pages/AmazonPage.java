@@ -1,9 +1,9 @@
 package Pages;
 
+import Utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import Utilities.Driver;
 
 import java.util.List;
 

@@ -11,8 +11,6 @@ import org.junit.Assert;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.interactions.Actions;
 
-import javax.swing.*;
-
 public class N11StepDefinition {
     N11Page n11Page;
 
